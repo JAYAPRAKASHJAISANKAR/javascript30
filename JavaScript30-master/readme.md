@@ -5,4 +5,5 @@
 
 | sr.No | Project | Tech Learnings |
 |:------|:------------|:------------------------------------------------------------|
-|1|Drum Kit|Tech Learnings Drum Kit|
+|1|Drum Kit|Tech Learnings for the Drum Kit|
+|2|Js Clock|Tech Learnings for Js Clock|
